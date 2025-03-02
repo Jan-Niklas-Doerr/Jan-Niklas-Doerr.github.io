@@ -1,26 +1,26 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi I am Jan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my page. Here you can find information about my [research](https://jan-niklas-doerr.github.io//publications/), my [teaching](https://jan-niklas-doerr.github.io//teaching/), and my [projects](https://jan-niklas-doerr.github.io//portfolio/).
-Additionally, I occasionally, write about [interesting topics](https://jan-niklas-doerr.github.io//year-archive/), especially artificial intelligence algorithms in operations research.
+I am a researcher in the intersection between operations research and artificial intelligence.
+Currently I am pursuing my PhD at Technical University of Munich in collaboration with SAP SE about the addressing scheduling problems, especially in the face of uncertainty, with artificial intelligence.
 
-Short bio
-======
-
-
-
+I truly believe that knowledge and scientific advancements need to openly accessible and be shared for the benefit of society.
+Therefore, I want to use this page to share my knowledge with the world and share resources that hopefully help at least one person.
+If you have any questions or want to discuss ideas, feel free to reach out to me.
 
 You find my CV [here](https://jan-niklas-doerr.github.io//cv/).
 
 
-
-
+Overview
+======
+You can find information about my [research](https://jan-niklas-doerr.github.io//publications/), my [teaching](https://jan-niklas-doerr.github.io//teaching/), and my [projects](https://jan-niklas-doerr.github.io//portfolio/).
+Additionally, I occasionally, write about [interesting topics](https://jan-niklas-doerr.github.io//year-archive/), especially artificial intelligence algorithms in operations research.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
