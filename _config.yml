@@ -23,9 +23,9 @@ repository               : "jan-niklas-doerr/jan-niklas-doerrs.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "jan-Niklas Doerr"
+  name             : "Jan-Niklas Doerr"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am enthusiastic about machine learning, mathematical optimization, and data science. I am currently a PhD Student at the Technical University of Munich in collaboration with SAP. My research focuses on developing advanced algorithms for scheduling problems that deal with uncertainty"
   location         : "Munich, Germany"
   employer         : "Technical University of Munich"
   uri              : # URL
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/jan-niklas-doerr/"
+  linkedin         : "jan-niklas-doerr/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
