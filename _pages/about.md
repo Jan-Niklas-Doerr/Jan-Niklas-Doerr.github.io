@@ -10,12 +10,13 @@ redirect_from:
 I am a researcher in the intersection between operations research and artificial intelligence.
 Currently I am pursuing my PhD at Technical University of Munich in collaboration with SAP SE about the addressing scheduling problems, especially in the face of uncertainty, with artificial intelligence.
 
-I truly believe that knowledge and scientific advancements need to openly accessible and be shared for the benefit of society.
+"Standing on the shoulders of giants"
+======
+This quote by Isaac Newton is a great metaphor for the scientific community. We are all standing on the shoulders of the giants that came before us.
+Hence, I  truly believe that knowledge and scientific advancements need to openly accessible and be shared for the benefit of society.
+I am grateful for the knowledge that I have gained from my teachers, mentors, and colleagues. And I want to return that favor.
 Therefore, I want to use this page to share my knowledge with the world and share resources that hopefully help at least one person.
 If you have any questions or want to discuss ideas, feel free to reach out to me.
-
-You find my CV [here](https://jan-niklas-doerr.github.io//cv/).
-
 
 Overview
 ======
