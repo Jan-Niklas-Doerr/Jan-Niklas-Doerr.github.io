@@ -11,26 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Operations Research, Technical University of Munich, 2026 (expected)
+* M.S. in Management and Technology, Technical University of Munich, 2022
+* Erasmus Exchange, Aarhus University, 2021
+* B.S. in Management and Technology, Technical University of Munich, 2019
+* Summer School, Peter the Great Polytechnic University, 2018
+* Teacher Training for Mathematics and Physical Education, Technical University of Munich, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Mai 2022 - now: Research Associate
+  * Technical University of Munich
+  * Cooperation SAP SE
+  * Duties includes:
+    * Research on scheduling problems with artificial intelligence
+    * Building and maintaining HPC servers of the chair
+    * IT and system administration of the chair
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov. 2021 - Mai 2022: Thesis Student
+  * SAP SE, , Munich
+  * Developing a Framework for ”Artificial Intelligence for Detailed Scheduling”
+  * Supervisor: Alexander Pahr (TUM) and Atreju Tauschinsky (SAP SE)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct 2016 - Sep 2021: Student Assistant
+  * Technical University of Munich, Chair of Operations Management
+
+* Apr. 2020 - Sep 2021: Student Assistant
+  * Technical University of Munich, Chair of Production and Supply Chain Management
+
+* Apr. 2017 – Oct. 2017 Working Student
+  * NEC Display Solution Europe GmbH, Munich
+
+* Sep. 2014 – Jul. 2015: Internship as teacher
+  * Anita-Augspurg-Berufsoberschule, Munich
+
   
 Skills
 ======
