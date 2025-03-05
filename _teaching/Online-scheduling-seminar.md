@@ -8,8 +8,7 @@ date: 2024-10-15
 location: "Munich, Germany"
 ---
 
-Brief Overview
-======
+
 Designing a computational challenge for students to tackle an online scheduling problem in the form of a case study.
 
 Course Description

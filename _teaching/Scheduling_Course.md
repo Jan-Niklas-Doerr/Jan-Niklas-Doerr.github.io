@@ -8,8 +8,6 @@ date: 2024-04-15
 location: "Munich, Germany"
 ---
 
-Brief Overview
-======
 Teaching genetic programming and reinforcement learning methods to graduate students
 
 Course Description

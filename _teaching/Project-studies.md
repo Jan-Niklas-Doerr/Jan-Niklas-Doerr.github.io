@@ -8,9 +8,9 @@ date: 2026-04-15
 location: "Munich, Germany"
 ---
 
+Supervision of multiple projects in the field of Operations Research.
 
+List off Project Studies
 ======
-Supervision of multiple Theses in the field of Operations Research and Machine Learning, mainly focusing on scheduling problems. Methods include genetic programming, reinforcement learning, and constraint programming
-
-List off Thesis
-======
+- Schott, E; Schott, S.: Research Challenge: Production-Inventory Planning at ASML. 2025
+- Heigl, C; Holzner, E.; Matysek, M.: Robotics in Healthcare: A Market Study and Go-To-Market Strategy for Robotic Applications in the Pharmaceutical and Medical Industries. Yaskawa Europe GmbH 2025
