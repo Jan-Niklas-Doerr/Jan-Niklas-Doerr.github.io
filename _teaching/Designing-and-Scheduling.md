@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/designing-and-scheduling
 venue: "Technical University Munich, Operations and Technology Department"
-date: 2022-15-05 
+date: 2022-05-15 
 location: "Munich, Germany"
 ---
 
