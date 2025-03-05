@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* Mai 2022 - now: Research Associate
+* Mai 2022 - Present: Research Associate
   * Technical University of Munich
   * Cooperation SAP SE
   * Duties includes:
@@ -39,8 +39,19 @@ Work experience
 * Apr. 2020 - Sep 2021: Student Assistant
   * Technical University of Munich, Chair of Production and Supply Chain Management
 
+* May 2019 – Jul. 2019 Student Consultant
+  * 180 Degrees Consulting, Munich
+
+* May 2023 - Present, Mentor
+  * 180 Degrees Consulting, Munich
+
+* Nov. 2017 - Jan. 2018: Project Work
+  * Deloitte, Munich
+  * Project: "Securitisation with Blockchain"
+
 * Apr. 2017 – Oct. 2017 Working Student
   * NEC Display Solution Europe GmbH, Munich
+  * Department: Human Resources
 
 * Sep. 2014 – Jul. 2015: Internship as teacher
   * Anita-Augspurg-Berufsoberschule, Munich
@@ -48,12 +59,15 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Teaching
+* Programming
+  * Julia
+  * Python
+  * C
+* Reinforcement Learning
+* Evolutionary Algorithms
+* Mathematical Optimization Models
+
 
 Publications
 ======
