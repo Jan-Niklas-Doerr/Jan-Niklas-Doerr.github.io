@@ -8,7 +8,7 @@ date: 2022-05-15
 location: "Munich, Germany"
 ---
 
-Teaching scheduling approaches to graduate students
+
 
 Course Description
 ======
