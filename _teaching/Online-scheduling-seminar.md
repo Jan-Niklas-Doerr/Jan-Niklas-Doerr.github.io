@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/OnlineSchedulingCaseChallenge
 venue: "Technical University Munich, Operations and Technology Department"
-date: 2024 - 2025 
+date: 2024-10-15 
 location: "Munich, Germany"
 ---
 
