@@ -8,6 +8,10 @@ date: 2022-05-15
 location: "Munich, Germany"
 ---
 
+Brief Overview
+======
+Teaching scheduling approaches to graduate students
+
 Course Description
 ======
 Decisions related to designing and scheduling of a production system play an important role in all manufacturing industries. Decisions like configuration of a layout, planning of material flow and scheduling of activities on resources, are all essential for maximizing the profit of a company. In this course, the students learn how to support these decisions by applying various quantitative methods in application areas such as assembly systems, process industries, automotive industry and AGVs in production centers.

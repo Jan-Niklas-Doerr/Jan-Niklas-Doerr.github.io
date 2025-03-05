@@ -8,6 +8,10 @@ date: 2024-04-15
 location: "Munich, Germany"
 ---
 
+Brief Overview
+======
+Teaching genetic programming and reinforcement learning methods to graduate students
+
 Course Description
 ======
 The efficient use of production systems plays an essential role in all manufacturing industries. The resulting scheduling problems differ between production systems. Due to their combinatorial nature, they are often hard to solve.
