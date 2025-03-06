@@ -21,4 +21,4 @@ My Contribution
 - Grading of homework and exams
 - Support for students in understanding the course material
 - Creating digital courses with exercises with an automated correction processes in Moodle
-- Organisation of other tutors and exams procedure as well as creating mock exams
+- Organization of other tutors and exams procedure as well as creating mock exams
